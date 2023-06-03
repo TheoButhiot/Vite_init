@@ -1,0 +1,1 @@
+// If you want work with GIT cloning the project and run the command line git switch -C develop
